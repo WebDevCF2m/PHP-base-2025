@@ -426,6 +426,11 @@ Les tableaux en PHP sont des structures très flexibles, capables de fonctionner
 
 Ils peuvent être multidimensionnels, c'est-à-dire qu'ils peuvent contenir des tableaux dans des tableaux.
 
+
+#### fonctions natives sur les tableaux
+https://www.php.net/manual/fr/ref.array.php
+
+
 ---
 
 [Retour au menu](#menu-de-navigation)
